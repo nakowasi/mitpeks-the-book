@@ -1,0 +1,54 @@
+body {
+  width: 90%;
+  margin: 1em auto;
+  font-family:"Kaiti SC", Georgia, 'Times New Roman', Times, serif !important;
+  font-size: 20px;
+  color: #35453F;
+  background-color: #C4E7CD;
+}
+
+img.inline {
+  height: 1em;
+  width:auto !important;
+  margin-bottom: -0.6em !important;
+}
+
+p {
+  margin-bottom: 1em !important;
+  font-size: 20px !important;
+}
+
+h1.english, h2.english, p.english {
+  /* display: none; */
+}
+
+h1.chinese, h2.chinese, p.chinese {
+  letter-spacing: 0.1em;
+}
+
+p.chinese i {
+  color: #151741; 
+  font-size: 95%;
+  font-weight: bold;
+  font-style: normal;
+}
+
+img{
+  width: 90% !important;
+  text-align: center !important;
+  border: #35453F solid 10 px;
+  padding: 10px;
+}
+
+sup {
+  margin-right: 0.5em;
+}
+
+a {
+  color: #232442
+}
+
+strong {
+  color: #151741; 
+  font-size: 95%;
+}
